@@ -2,7 +2,8 @@ This repo contains the solution Cohort 10 QOSF tasks
 
 ## Task 1:
 <hr>
-Solution: ![Taks1.ipynb](./QOSF%20Task1.ipynb)
+
+Solution: [Taks1.ipynb](./QOSF%20Task1.ipynb)
 
 ```
 
@@ -45,7 +46,7 @@ Plot the runtime of your code as a function of the number of qubits. How many qu
 
 <hr>
 
-Solution: ![Taks3.ipynb](./QOSF%20Task3.ipynb)
+Solution: [Taks3.ipynb](./QOSF%20Task3.ipynb)
 
 
 ```
